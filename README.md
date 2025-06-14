@@ -1,4 +1,7 @@
-# linketracknet
+# ⚠️ Link &amp; Track deixou de oferecer API diretamente ⚠️
+Mais informações, acesse https://linketrack.com/api
+
+## linketracknet
 Interface amigável .net não oficial para a API do Link &amp; Track (https://linketrack.com)
 
 ## Configuração
